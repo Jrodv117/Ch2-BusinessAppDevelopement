@@ -12,7 +12,6 @@ formatted_tip = float("{:.2f}".format(tip))
 
 print(f'Tip amount: {formatted_tip}')
 
-
 formatted_tip += cost_of_meal
 
 print(f'Total amount: {formatted_tip}')
